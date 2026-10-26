@@ -1,0 +1,40 @@
+# Unity generated data
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+.utmp/
+
+# IDE and generated project files
+.vs/
+
+# Imported TextMesh Pro demos are not used by the game
+Assets/TextMesh Pro/Examples & Extras/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Player builds and crash dumps
+*.apk
+*.aab
+*.ipa
+*.app
+*.dmp
+crashlytics-build.properties

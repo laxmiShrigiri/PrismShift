@@ -1,0 +1,6 @@
+<linker>
+  <assembly fullname="Assembly-CSharp">
+    <type fullname="GameLevelsDatabaseSO" preserve="all"/>
+    <type fullname="LevelEntry" preserve="all"/>
+  </assembly>
+</linker>
