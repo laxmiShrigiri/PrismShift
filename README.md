@@ -6,7 +6,14 @@ A 2D color-matching puzzle game built with **Unity and C#**, featuring data-driv
 
 ## Gameplay Preview
 
-![Prism Shift Gameplay](Screenshots/gameplay-main.png)
+### Home Scene
+![Home Scene](Screenshots/home-scene.png)
+
+### Level Selection
+![Level Selection](Screenshots/level-selection.png)
+
+### Gameplay Scene
+![Gameplay Scene](Screenshots/gameplay-scene.png)
 
 ## Key Features
 
