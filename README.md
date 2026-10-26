@@ -7,14 +7,13 @@ A 2D color-matching puzzle game built with **Unity and C#**, featuring data-driv
 ## Gameplay Preview
 
 ### Home Scene
-![Home Scene](Screenshots/home-scene.png)
+![Prism Shift Home Scene](HomeScene.png)
 
 ### Level Selection
-![Level Selection](Screenshots/level-selection.png)
+![Prism Shift Level Selection](SelectionScene.png)
 
 ### Gameplay Scene
-![Gameplay Scene](Screenshots/gameplay-scene.png)
-
+![Prism Shift Gameplay](GameScene.png)
 ## Key Features
 
 - **Data-Driven Levels:** Generate puzzle layouts using PNG pixel data and ScriptableObjects.
